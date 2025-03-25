@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root{
+    /* ===== colors ==== */
+    --body-color1: #fdfdfd;
+    --body-color2: #000;
+    --main-color-green:#13a89e;
+    --main-color-gold:#e4c775;
+    --secondary-color-green:#03989e;
+    --secondary-color-gold:#b48e43;
+    --accessory-color-blue:#1b2a41;
+    --accessory-color-red:#e63846;
+    --neutral-color-gold: #cfd186;
+    --neutral-color-grey: #becde4;
+
+}
+
+body{
+    background: oklch(0.967 0.003 264.542);
+}

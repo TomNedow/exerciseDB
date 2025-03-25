@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Squat",
+        "category": "Lower Body",
+        "mainOrAccessory": "Main",
+        "equipment": "Weighted",
+        "description": "Stand with feet shoulder-width apart. Lower your hips back and down as if sitting in a chair, keeping your chest up and knees over your toes. Push through your heels to return to standing.",
+        "modifications": "Box Squat, Goblet Squat, Bulgarian Squats",
+        "difficulty": "Beginner",
+        "video": "https://www.youtube.com/embed/ultWZbUMPL8",
+        "exerciseNotes": "Control on the way down, explode on the way up!",
+        "image": "images/squat.avif",
+        "tag": "popular"
+    },
+    {
+        "name": "Goblet Squat",
+        "category": "Lower Body",
+        "mainOrAccessory": "Main",
+        "equipment": "Dumbbell or Kettlebell",
+        "description": "Hold a dumbbell or kettlebell close to your chest with both hands, keeping your elbows pointed downward. Lower your hips back and down, keeping your chest up and knees over your toes. Push through your heels to return to standing.",
+        "modifications": "Bodyweight Goblet Squat, Kettlebell Goblet Squat",
+        "difficulty": "Beginner",
+        "video": "https://www.youtube.com/embed/6xw5l9ZQJ1I",
+        "exerciseNotes": "This squat variation helps improve posture and mobility.",
+        "image": "images/gobletSquat.jpg",
+        "tag": ""
+    }
+]

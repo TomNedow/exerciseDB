@@ -1,0 +1,288 @@
+[
+    {
+      "id": 1,
+      "name": "Push-up",
+      "category": "Upper-body",
+      "targetMuscles": ["Chest", "Shoulders", "Triceps"],
+      "synergistMuscles": ["Core", "Glutes"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Keep your body in a straight line.",
+        "Don't let your elbows flare out too much.",
+        "Engage your core throughout the movement."
+      ],
+      "longInstructions": "Start in a plank position with your hands shoulder-width apart. Lower your body towards the ground by bending your elbows, then push back up to the starting position. Keep your body rigid and don't let your hips sag.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+    },
+    {
+      "id": 2,
+      "name": "Squat",
+      "category": "Lower-body",
+      "targetMuscles": ["Quadriceps", "Glutes", "Hamstrings"],
+      "synergistMuscles": ["Core", "Calves"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Push through your heels.",
+        "Keep your knees aligned with your toes.",
+        "Engage your core and keep your back straight."
+      ],
+      "longInstructions": "Stand with your feet shoulder-width apart. Lower your hips back and down, keeping your chest up and knees aligned with your toes. Once your thighs are parallel to the ground, push through your heels to return to standing.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=aclHkVaku9U"
+    },
+    {
+      "id": 3,
+      "name": "Deadlift",
+      "category": "Lower-body",
+      "targetMuscles": ["Lower Back", "Hamstrings", "Glutes", "Core"],
+      "synergistMuscles": ["Traps", "Forearms"],
+      "difficulty": "Advanced",
+      "exerciseCues": [
+        "Keep your back straight and chest up.",
+        "Push your hips back, not down.",
+        "Engage your core before lifting."
+      ],
+      "longInstructions": "Stand with your feet shoulder-width apart and the barbell over the middle of your feet. Grip the bar with your hands just outside your knees. Push your hips back while keeping your back straight, then lift the bar by driving through your heels and extending your hips.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+    },
+    {
+      "id": 4,
+      "name": "Bench Press",
+      "category": "Upper-body",
+      "targetMuscles": ["Chest", "Shoulders", "Triceps"],
+      "synergistMuscles": ["Lats"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Keep your feet flat on the floor.",
+        "Don't arch your back excessively.",
+        "Lower the bar to your chest, not your neck."
+      ],
+      "longInstructions": "Lie back on a bench with your feet flat on the floor. Grip the bar slightly wider than shoulder-width. Lower the bar slowly to your chest, keeping your elbows at a 45-degree angle. Push the bar back up to the starting position, fully extending your arms.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+    },
+    {
+      "id": 5,
+      "name": "Pull-up",
+      "category": "Upper-body",
+      "targetMuscles": ["Back", "Biceps", "Forearms"],
+      "synergistMuscles": ["Shoulders", "Core"],
+      "difficulty": "Intermediate",
+      "exerciseCues": [
+        "Start with your arms fully extended.",
+        "Pull your chest towards the bar, not just your chin.",
+        "Engage your lats throughout the movement."
+      ],
+      "longInstructions": "Grab the pull-up bar with your palms facing away and hands slightly wider than shoulder-width. Hang with your arms fully extended, then pull yourself up until your chin clears the bar. Lower yourself back down in a controlled motion.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+    },
+    {
+      "id": 6,
+      "name": "Plank",
+      "category": "Core",
+      "targetMuscles": ["Core", "Shoulders", "Glutes"],
+      "synergistMuscles": ["Chest", "Lower Back"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Engage your core and glutes.",
+        "Keep your body in a straight line.",
+        "Don't let your hips sag or rise."
+      ],
+      "longInstructions": "Start in a forearm plank position with your elbows below your shoulders. Engage your core, squeeze your glutes, and maintain a straight body from head to heels. Hold this position for the desired amount of time.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+    },
+    {
+      "id": 7,
+      "name": "Lunges",
+      "category": "Lower-body",
+      "targetMuscles": ["Quadriceps", "Glutes", "Hamstrings"],
+      "synergistMuscles": ["Calves", "Core"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Step forward with a long stride.",
+        "Keep your knee in line with your toes.",
+        "Engage your core to maintain balance."
+      ],
+      "longInstructions": "Stand tall and step forward with one leg. Lower your hips until both knees are bent at 90 degrees. Push through the heel of the front foot to return to standing. Repeat on the other leg.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+    },
+    {
+      "id": 8,
+      "name": "Jump Rope",
+      "category": "Cardio",
+      "targetMuscles": ["Calves", "Quads", "Hamstrings", "Core"],
+      "synergistMuscles": ["Shoulders", "Forearms"],
+      "exerciseCues": [
+        "Jump on the balls of your feet.",
+        "Keep your elbows close to your body.",
+        "Stay light on your feet and use a fluid motion."
+      ],
+      "longInstructions": "Hold the rope handles with your hands near your hips. Jump over the rope as it swings towards your feet, landing softly on the balls of your feet. Continue jumping, maintaining a steady rhythm.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=1w8k6a4dxX4"
+    },
+    {
+      "id": 9,
+      "name": "Burpee",
+      "category": "Full-body",
+      "targetMuscles": ["Chest", "Shoulders", "Quads", "Glutes", "Core"],
+      "synergistMuscles": ["Triceps", "Hamstrings"],
+      "difficulty": "Begeinner",
+      "exerciseCues": [
+        "Keep your chest up as you squat.",
+        "Engage your core as you jump.",
+        "Land softly on your feet."
+      ],
+      "longInstructions": "Start in a standing position. Drop into a squat position, kick your feet back into a plank, perform a push-up, then jump your feet forward and explosively jump up into the air. Repeat the movement.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=auBLPXO8Fww"
+    }, 
+    {
+      "id": 10,
+      "name": "Dumbbell Shoulder Press",
+      "category": "Upper-body",
+      "targetMuscles": ["Shoulders"],
+      "synergistMuscles": ["Triceps", "Upper Chest"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your back straight and core engaged.",
+        "Press the dumbbells straight up without locking your elbows.",
+        "Lower the weights in a controlled manner."
+      ],
+      "longInstructions": "Hold a dumbbell in each hand at shoulder height with your palms facing forward. Press the weights upward until your arms are fully extended. Lower the dumbbells back to the starting position and repeat.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=B-aVuyhvLHU"
+    },
+    {
+      "id": 11,
+      "name": "Bent-Over Row",
+      "category": "Upper-body",
+      "targetMuscles": ["Back", "Biceps"],
+      "synergistMuscles": ["Rear Delts", "Core"],
+      "difficulty": "Intermediate",
+      "exerciseCues": [
+        "Keep your back straight and chest up.",
+        "Pull the barbell towards your lower rib cage.",
+        "Squeeze your shoulder blades together."
+      ],
+      "longInstructions": "Hold a barbell or dumbbells with an overhand grip. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Pull the barbell towards your torso, then slowly lower it back down.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=koBz4c-aVWc"
+    },
+    {
+      "id": 12,
+      "name": "Russian Twists",
+      "category": "Core",
+      "targetMuscles": ["Obliques", "Core"],
+      "synergistMuscles": ["Hip Flexors", "Lower Back"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your core tight throughout.",
+        "Rotate your shoulders, not just your arms.",
+        "Maintain control to avoid jerking movements."
+      ],
+      "longInstructions": "Sit on the floor with your knees bent and feet lifted off the ground. Lean back slightly and hold a weight or medicine ball with both hands. Twist your torso to one side, then to the other, keeping your core engaged.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+    },
+    {
+      "id": 13,
+      "name": "Step-ups",
+      "category": "Lower-body",
+      "targetMuscles": ["Glutes", "Quads"],
+      "synergistMuscles": ["Hamstrings", "Calves"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Step up with control, avoiding pushing off the back leg.",
+        "Engage your glutes as you push through your heel.",
+        "Keep your chest up and core tight."
+      ],
+      "longInstructions": "Stand in front of a sturdy bench or step. Step up with one foot, pressing through your heel to lift your body onto the platform. Step down with the same leg and repeat. Alternate legs after each set.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=_spKts9fEbQ"
+    },
+    {
+      "id": 14,
+      "name": "Mountain Climbers",
+      "category": "Full-body",
+      "targetMuscles": ["Core", "Shoulders"],
+      "synergistMuscles": ["Quads", "Glutes"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your body in a straight line.",
+        "Drive your knees towards your chest quickly but with control.",
+        "Engage your core throughout the movement."
+      ],
+      "longInstructions": "Start in a plank position with your hands directly under your shoulders. Quickly alternate driving your knees towards your chest, maintaining a straight body and stable shoulders.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+    },
+    {
+      "id": 15,
+      "name": "Side Plank",
+      "category": "Core",
+      "targetMuscles": ["Obliques", "Core"],
+      "synergistMuscles": ["Shoulders", "Glutes"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your body in a straight line.",
+        "Engage your core and avoid letting your hips sag.",
+        "Stack your feet for an extra challenge."
+      ],
+      "longInstructions": "Lie on your side with your forearm under your shoulder. Lift your hips off the ground, creating a straight line from your head to your feet. Hold this position, keeping your core engaged.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=K4V3Mo61fJM"
+    },
+    {
+      "id": 16,
+      "name": "Dumbbell Bicep Curl",
+      "category": "Upper-body",
+      "targetMuscles": ["Biceps"],
+      "synergistMuscles": ["Forearms"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your elbows close to your sides.",
+        "Lift the dumbbells with control, avoiding swinging.",
+        "Lower the weights slowly."
+      ],
+      "longInstructions": "Hold a dumbbell in each hand with your palms facing forward. Curl the dumbbells up towards your shoulders, keeping your elbows close to your torso. Lower the dumbbells back to the starting position.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+    },
+    {
+      "id": 17,
+      "name": "Leg Press",
+      "category": "Lower-body",
+      "targetMuscles": ["Quads", "Glutes"],
+      "synergistMuscles": ["Hamstrings", "Calves"],
+      "difficulty": "Beginner",
+      "exerciseCues": [
+        "Keep your feet flat on the platform.",
+        "Don't lock your knees at the top of the movement.",
+        "Push through your heels, not your toes."
+      ],
+      "longInstructions": "Sit on a leg press machine with your feet shoulder-width apart on the platform. Push the platform up by extending your legs, then slowly lower it back down without letting the weights touch.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+    },
+    {
+      "id": 18,
+      "name": "Kettlebell Swing",
+      "category": "Full-body",
+      "targetMuscles": ["Glutes", "Hamstrings"],
+      "synergistMuscles": ["Core", "Lower Back"],
+      "difficulty": "Intermediate",
+      "exerciseCues": [
+        "Hinge at the hips, not the knees.",
+        "Use your hips to drive the kettlebell upward.",
+        "Keep your back straight throughout the movement."
+      ],
+      "longInstructions": "Stand with your feet slightly wider than shoulder-width apart, holding a kettlebell with both hands. Swing the kettlebell between your legs by hinging at your hips, then thrust your hips forward to swing it up to chest height.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=6u_nGsZlEow"
+    },
+    {
+      "id": 19,
+      "name": "Dumbbell Romanian Deadlift",
+      "category": "Lower-body",
+      "targetMuscles": ["Hamstrings", "Glutes"],
+      "synergistMuscles": ["Lower Back", "Core"],
+      "difficulty": "Intermediate",
+      "exerciseCues": [
+        "Keep your back straight and chest up.",
+        "Push your hips back to lower the dumbbells.",
+        "Maintain a slight bend in your knees."
+      ],
+      "longInstructions": "Hold a dumbbell in each hand in front of your thighs. Push your hips back while lowering the dumbbells towards your shins, keeping your back straight. Return to standing by thrusting your hips forward.",
+      "youtubeVideo": "https://www.youtube.com/watch?v=opjXwOt8WPY"
+    }
+   
+  ]
+  
