@@ -12,7 +12,8 @@
         "Engage your core throughout the movement."
       ],
       "longInstructions": "Start in a plank position with your hands shoulder-width apart. Lower your body towards the ground by bending your elbows, then push back up to the starting position. Keep your body rigid and don't let your hips sag.",
-      "youtubeVideo": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+      "youtubeVideo": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "video": "./src/assets/push-up.mp4"
     },
     {
       "id": 2,
@@ -27,7 +28,8 @@
         "Engage your core and keep your back straight."
       ],
       "longInstructions": "Stand with your feet shoulder-width apart. Lower your hips back and down, keeping your chest up and knees aligned with your toes. Once your thighs are parallel to the ground, push through your heels to return to standing.",
-      "youtubeVideo": "https://www.youtube.com/watch?v=aclHkVaku9U"
+      "youtubeVideo": "https://www.youtube.com/watch?v=aclHkVaku9U",
+      "video": "./src/assets/push-up.mp4"
     },
     {
       "id": 3,
@@ -42,7 +44,8 @@
         "Engage your core before lifting."
       ],
       "longInstructions": "Stand with your feet shoulder-width apart and the barbell over the middle of your feet. Grip the bar with your hands just outside your knees. Push your hips back while keeping your back straight, then lift the bar by driving through your heels and extending your hips.",
-      "youtubeVideo": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+      "youtubeVideo": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+      "video": "./src/assets/push-up.mp4"
     },
     {
       "id": 4,

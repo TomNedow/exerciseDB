@@ -1,13 +1,14 @@
-// tailwind.config.js
-
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-    content: [
-      "./index.html",
-      "./src/**/*.{js,jsx,ts,tsx,css}", // Include .css files here
-    ],
-    theme: {
-      extend: {},
+  theme: {
+    extend: {
+      fontFamily: {
+        inter: ["Inter", "sans-serif"], // Define Inter
+      },
     },
-    plugins: [],
-  }
-  
+  },
+  safelist: [
+    "font-inter", // Ensure Tailwind keeps the class
+  ],
+  plugins: [],
+};

@@ -3,7 +3,7 @@ import ATLogo from '/src/assets/ATLogo.png';
 
 function Navbar() {
     return (
-        <div className="navbar-container fixed top-0 left-0 w-full bg-[#1b2a41] p-4 shadow-md z-10 mb-10">
+        <div className="navbar-container fixed top-0 left-0 w-full bg-[#1b2a41] p-4 shadow-md z-10 mb-10 z-100">
             <div className="navbar-width flex justify-between items-center max-w-screen-xl mx-auto">
                 {/* Left Navbar */}
                 <div className="left-navbar flex gap-8">
